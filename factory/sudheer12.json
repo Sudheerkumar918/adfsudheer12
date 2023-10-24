@@ -1,0 +1,9 @@
+{
+	"name": "sudheer12",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "93bba030-7480-45da-8a89-5ef13beca387",
+		"tenantId": "85101faf-48e9-49a2-b475-80502364603b"
+	}
+}
